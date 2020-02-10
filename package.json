@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/cfirmi/MicroServerServices/issues"
   },
-  "homepage": "https://github.com/cfirmi/MicroServerServices#readme"
+  "homepage": "https://github.com/cfirmi/MicroServerServices#readme",
+  "dependencies": {
+    "prisma-binding": "^2.3.16"
+  }
 }
