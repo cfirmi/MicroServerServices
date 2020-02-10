@@ -1,0 +1,30 @@
+{
+  "name": "microserverservices",
+  "version": "1.0.0",
+  "description": "Apollo Federation with 1 Apollo/Prisma/Mongo/GraphQL  1 Apollo/Prisma/Postgres/GraphQL  1 Rest/Express/MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfirmi/MicroServerServices.git"
+  },
+  "keywords": [
+    "Apollo",
+    "Prisma",
+    "Federation",
+    "Micro",
+    "Service",
+    "GraphQL",
+    "Node",
+    "JavaScript",
+    "Mongo"
+  ],
+  "author": "Christian Firmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cfirmi/MicroServerServices/issues"
+  },
+  "homepage": "https://github.com/cfirmi/MicroServerServices#readme"
+}
